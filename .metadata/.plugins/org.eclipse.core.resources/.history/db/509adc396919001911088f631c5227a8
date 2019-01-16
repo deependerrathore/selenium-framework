@@ -1,0 +1,5 @@
+package com.framework.infosys.btfg.lcplus.helper.logger;
+
+public class LoggerHelper {
+
+}
